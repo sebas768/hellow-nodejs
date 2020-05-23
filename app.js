@@ -1,1 +1,1 @@
-console.log("Hola Mundo OPENSHIFT");
+console.log("Hola Mundo OPENSHIFT\n");
